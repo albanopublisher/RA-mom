@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 480,
+    "originalHeight": 640
+  },
+  "imagePath": "image-targets/Totito_luminance.png",
+  "metadata": null,
+  "name": "Totito",
+  "resources": {
+    "originalImage": "Totito_original.png",
+    "croppedImage": "Totito_cropped.png",
+    "thumbnailImage": "Totito_thumbnail.png",
+    "luminanceImage": "Totito_luminance.png"
+  },
+  "created": 1793587018771,
+  "updated": 1793587193519
+}
